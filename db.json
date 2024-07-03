@@ -1,48 +1,6 @@
 {
   "projects": [
     {
-      "id": "0225",
-      "name": "Elaborar testes",
-      "budget": "0.01",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      }
-    },
-    {
-      "id": "47e6",
-      "name": "Elaborar testes",
-      "budget": "0.01",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "2fd5",
-      "name": "Elaborar testes",
-      "budget": "0.01",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "4612",
-      "name": "Projeto Teste",
-      "budget": "2000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
       "id": "a378",
       "name": "Projeto Teste 2.0",
       "budget": "5000",
@@ -76,67 +34,12 @@
       "services": []
     },
     {
-      "id": "d7dd",
-      "name": "Testando mensagens",
-      "budget": "100",
-      "category": {
-        "id": "3",
-        "name": "Design"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
       "id": "f50d",
       "name": "Testando msg",
       "budget": "1200",
       "category": {
         "id": "3",
         "name": "Design"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "95a7",
-      "name": "mensagem teste 2",
-      "budget": "1234",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "d9d7",
-      "name": "mensagem teste 3",
-      "budget": "1234",
-      "category": {
-        "id": "1",
-        "name": "Infra"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "edce",
-      "name": "mensagem teste 4",
-      "budget": "4567",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": []
-    },
-    {
-      "id": "3f39",
-      "name": "teste mensagem",
-      "budget": "1234",
-      "category": {
-        "id": "1",
-        "name": "Infra"
       },
       "cost": 0,
       "services": []
