@@ -8,8 +8,21 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": []
+      "cost": 5000,
+      "services": [
+        {
+          "name": "Serviço do projeto teste",
+          "cost": "4000",
+          "description": "Serviço tal de teste tal",
+          "id": "aaa0ef39-d61b-4ae5-bdac-6b188d0d76d3"
+        },
+        {
+          "name": "Serviço secreto",
+          "cost": "1000",
+          "description": "n/a",
+          "id": "6c59b301-c41a-474d-9c66-099d5399d6c0"
+        }
+      ]
     },
     {
       "id": "eaea",
@@ -30,8 +43,15 @@
         "id": "1",
         "name": "Infra"
       },
-      "cost": 0,
-      "services": []
+      "cost": 5000,
+      "services": [
+        {
+          "name": "Teste serviço",
+          "description": "Serviço tal",
+          "cost": "5000",
+          "id": "d0cfd140-1195-4a10-8a1a-b3d24c8ca411"
+        }
+      ]
     },
     {
       "id": "f50d",
@@ -63,8 +83,15 @@
       },
       "budget": "1000",
       "name": "Teste Layout",
-      "cost": 0,
-      "services": []
+      "cost": 500,
+      "services": [
+        {
+          "name": "New layout",
+          "cost": "500",
+          "description": "Serviço tal",
+          "id": "d7ba3fe3-38e2-4fc4-bc71-0ed9d73ac7cf"
+        }
+      ]
     }
   ],
   "categories": [
