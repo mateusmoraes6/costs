@@ -72,8 +72,15 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": []
+      "cost": 100,
+      "services": [
+        {
+          "name": "Novo serviço",
+          "cost": "100",
+          "description": "Teste",
+          "id": "8bed50fd-049a-471f-b29f-75b21ec0302f"
+        }
+      ]
     },
     {
       "id": "d7ae",
