@@ -1,20 +1,20 @@
-import { useState } from 'react'
-import Input from '../form/Input'
-import SubmitButton from '../form/SubmitButton'
+import { useState } from "react";
+import Input from "../form/Input";
+import SubmitButton from "../form/SubmitButton";
 
-import styles from '../project/ProjectForm.module.css'
+import styles from "../project/ProjectForm.module.css";
 
 function ServiceForm({ handleSubmit, btnText, projectData }) {
-  const [service, setService] = useState({})
+  const [service, setService] = useState({});
 
   const submit = (e) => {
-    e.preventDefault()
-    projectData.services.push(service)
-    handleSubmit(projectData)
-  }
+    e.preventDefault();
+    projectData.services.push(service);
+    handleSubmit(projectData);
+  };
 
   function handleChange(e) {
-    setService({ ...service, [e.target.name]: e.target.value })
+    setService({ ...service, [e.target.name]: e.target.value });
   }
 
   return (
@@ -42,7 +42,7 @@ function ServiceForm({ handleSubmit, btnText, projectData }) {
       />
       <SubmitButton text={btnText} />
     </form>
-  )
+  );
 }
 
-export default ServiceForm
+export default ServiceForm;
