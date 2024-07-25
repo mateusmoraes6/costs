@@ -75,10 +75,10 @@
       "cost": 100,
       "services": [
         {
-          "name": "Novo serviço",
+          "name": "new service",
           "cost": "100",
           "description": "Teste",
-          "id": "8bed50fd-049a-471f-b29f-75b21ec0302f"
+          "id": "ad9958e5-c153-4f20-9c9c-81abe4c2eab5"
         }
       ]
     },
